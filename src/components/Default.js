@@ -13,7 +13,7 @@ import React, { Component } from 'react'
               <h3>the requested page {" "} 
                 <span className="text-danger">
                   {this.props.location.pathname}
-                </span> {" "} was not found
+                </span> {" "} was not found !
               </h3>
             </div>
           </div>
